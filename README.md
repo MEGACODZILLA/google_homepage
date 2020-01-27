@@ -1,0 +1,1 @@
+This is going to be my final project for the html/css part fo the Odin Project. In it I will be trying to replicate the Google homepage using the skills I have aquired thus far in the project. Good luck and may god have mercy on your soul.
